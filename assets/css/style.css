@@ -4,4 +4,54 @@
 body
 {
     margin: 0px;
+    background-color: #8CB9BD;
 }
+.main-section
+{
+    background-color: aliceblue;
+    height: 800px;
+    width: 720px;
+    box-shadow: #8CB9BD;
+    position: absolute;
+    top:10px;
+    left: 300px;
+    border-radius: 2%;
+}
+p
+{
+    text-align: center;
+}
+img 
+{
+    margin: 15px 30px 0px 30px;
+    border: black 2px solid;
+    border-radius: 50%;
+}
+#primary-name
+{
+    position: absolute;
+    top: 30px;
+    left: 300px;
+    font-size: 24px;
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+}
+#primary-tag
+{
+    position: absolute;
+    top: 80px;
+    left: 330px;
+    font-size: 24px;
+}
+#primary-contact
+{
+    position: absolute;
+    top: 120px;
+    left: 270px;
+    font-size: 24px;
+}
+
+
+
